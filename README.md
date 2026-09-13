@@ -18,7 +18,6 @@ A **Íris** é um agente conversacional que vai além do chatbot reativo: ela **
 - [Tecnologias](#️-tecnologias)
 - [Roadmap](#️-roadmap)
 - [Documentação Complementar](#-documentação-complementar)
-- [Licença](#-licença)
 
 ---
 
